@@ -1,0 +1,60 @@
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.csproj.AssemblyReference.cache
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.csproj.GenerateResource.cache
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.AssemblyInfoInputs.cache
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.AssemblyInfo.cs
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.csproj.CoreCompileInputs.cache
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\Prodigy_SD_03.exe
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\Prodigy_SD_03.deps.json
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\Prodigy_SD_03.runtimeconfig.json
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\Prodigy_SD_03.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\Prodigy_SD_03.pdb
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.Form1.resources
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_.07DBFE12.Up2Date
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\refint\Prodigy_SD_03.dll
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.pdb
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.genruntimeconfig.cache
+C:\Users\leizi\source\repos\Prodigy_SD_03\obj\Debug\net6.0-windows\ref\Prodigy_SD_03.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\Prodigy_SD_03.exe
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\Prodigy_SD_03.deps.json
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\Prodigy_SD_03.runtimeconfig.json
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\Prodigy_SD_03.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\Prodigy_SD_03.pdb
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.csproj.AssemblyReference.cache
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.Form1.resources
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.csproj.GenerateResource.cache
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.AssemblyInfoInputs.cache
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.AssemblyInfo.cs
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.csproj.CoreCompileInputs.cache
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_.07DBFE12.Up2Date
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\refint\Prodigy_SD_03.dll
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.pdb
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\Prodigy_SD_03.genruntimeconfig.cache
+C:\Users\leizi\OneDrive - Bow Valley College\Desktop\Prodigy_SD_03\obj\Debug\net6.0-windows\ref\Prodigy_SD_03.dll

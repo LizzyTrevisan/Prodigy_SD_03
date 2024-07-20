@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Prodigy_SD_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE2D1F0-ED12-46FB-B037-7AF8250A085E}|Prodigy_SD_03.csproj|c:\\users\\leizi\\onedrive - bow valley college\\desktop\\prodigy_sd_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE2D1F0-ED12-46FB-B037-7AF8250A085E}|Prodigy_SD_03.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE2D1F0-ED12-46FB-B037-7AF8250A085E}|Prodigy_SD_03.csproj|c:\\users\\leizi\\onedrive - bow valley college\\desktop\\prodigy_sd_03\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE2D1F0-ED12-46FB-B037-7AF8250A085E}|Prodigy_SD_03.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE2D1F0-ED12-46FB-B037-7AF8250A085E}|Prodigy_SD_03.csproj|C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Prodigy_SD_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DE2D1F0-ED12-46FB-B037-7AF8250A085E}|Prodigy_SD_03.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE2D1F0-ED12-46FB-B037-7AF8250A085E}|Prodigy_SD_03.csproj|c:\\users\\leizi\\onedrive - bow valley college\\desktop\\prodigy_sd_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE2D1F0-ED12-46FB-B037-7AF8250A085E}|Prodigy_SD_03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Prodigy_SD_03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Prodigy_SD_03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:51:46.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Prodigy_SD_03\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Prodigy_SD_03\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:44:49.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Prodigy_SD_03\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Prodigy_SD_03\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAwwOIAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:42:57.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Prodigy_SD_03\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\leizi\\OneDrive - Bow Valley College\\Desktop\\Prodigy_SD_03\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:40:31.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
