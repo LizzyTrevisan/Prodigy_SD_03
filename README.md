@@ -67,11 +67,17 @@ Click the "Export" button to save the contact list to an Excel file.
 This application simplifies contact management tasks, making it ideal for small businesses or personal use.
 
 
-![Screenshot 2024-07-22 131710.png](
-![Screenshot 2024-07-22 131710.png](
-![Screenshot 2024-07-22 131710.png](
-![Screenshot 2024-07-22 131710.png](
-![Screenshot 2024-07-22 131710.png](
+![Screenshot 2024-07-22 131710.png](https://github.com/LizzyTrevisan/Prodigy_SD_03/blob/main/Screenshot%202024-07-22%20220255.png)
+
+![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_03/main/Screenshot%202024-07-22%20220311.png)
+
+![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_03/main/Screenshot%202024-07-22%20220357.png)
+
+![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_03/main/Screenshot%202024-07-22%20220420.png)
+
+![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_03/main/Screenshot%202024-07-22%20220431.png)
+
+![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_03/main/Screenshot%202024-07-22%20220454.png)
 
 
 <video width="320" height="240" controls>
