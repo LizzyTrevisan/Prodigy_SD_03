@@ -50,9 +50,11 @@ Libraries: ClosedXML for Excel export
 ## Adding a Contact: 
 Enter the contact's ID, Name, Phone, and Email in the respective text boxes and click the "Add" button. The contact will be saved to the database, and the list will refresh automatically.
 
-## Updating a Contact: Enter the contact's ID and the new details (Name, Phone, Email) in the text boxes, then click the "Update" button. The contact details will be updated, and the list will refresh automatically.
+## Updating a Contact: 
+Enter the contact's ID and the new details (Name, Phone, Email) in the text boxes, then click the "Update" button. The contact details will be updated, and the list will refresh automatically.
 
-## Deleting a Contact: Enter the contact's ID in the text box and click the "Delete" button. The contact will be removed from the database, and the list will refresh automatically.
+## Deleting a Contact: 
+Enter the contact's ID in the text box and click the "Delete" button. The contact will be removed from the database, and the list will refresh automatically.
 
 ## Searching for a Contact: 
 Enter the contact's ID in the text box and click the "Search" button. The details of the contact will be displayed in the DataGridView.
@@ -64,7 +66,9 @@ Click the "Display All" button to view all contacts in the DataGridView.
 Click the "Export" button to save the contact list to an Excel file.
 This application simplifies contact management tasks, making it ideal for small businesses or personal use.
 
-
+<video width="320" height="240" controls>
+  <source src="video.mov" type="video/mp4">
+</video>
 
 
 This Program was built using the [Visual Studio ] IDE (https://visualstudio.microsoft.com/vs/)
