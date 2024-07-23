@@ -66,6 +66,14 @@ Click the "Display All" button to view all contacts in the DataGridView.
 Click the "Export" button to save the contact list to an Excel file.
 This application simplifies contact management tasks, making it ideal for small businesses or personal use.
 
+
+![Screenshot 2024-07-22 131710.png](
+![Screenshot 2024-07-22 131710.png](
+![Screenshot 2024-07-22 131710.png](
+![Screenshot 2024-07-22 131710.png](
+![Screenshot 2024-07-22 131710.png](
+
+
 <video width="320" height="240" controls>
   <source src="video.mov" type="video/mp4">
 </video>
