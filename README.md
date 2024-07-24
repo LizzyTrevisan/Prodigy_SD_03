@@ -13,7 +13,8 @@ Repository of Contact Management System
 
 | Machine Language | Program |
 | ------- | ------------ |
-| C# |   Contact Management System
+| C# |   Contact Management System |
+| CRUD | MYSQL |
 
 
 Contact Management System
