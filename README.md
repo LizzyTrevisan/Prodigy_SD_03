@@ -60,7 +60,7 @@ Enter the contact's ID in the text box and click the "Delete" button. The contac
 Enter the contact's ID in the text box and click the "Search" button. The details of the contact will be displayed in the DataGridView.
 
 ## Displaying All Contacts: 
-Click the "Display All" button to view all contacts in the DataGridView.
+Click the "View All" button to view all contacts in the DataGridView.
 
 ## Exporting Contacts to Excel: 
 Click the "Export" button to save the contact list to an Excel file.
