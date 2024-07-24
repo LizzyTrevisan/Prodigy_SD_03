@@ -64,7 +64,7 @@ Enter the contact's ID in the text box and click the "Search" button. The detail
 Click the "View All" button to view all contacts in the DataGridView.
 
 ## Exporting Contacts to Excel: 
-Click the "Export" button to save the contact list to an Excel file.
+Click the "Download" button to save the contact list to an Excel file.
 This application simplifies contact management tasks, making it ideal for small businesses or personal use.
 
 
