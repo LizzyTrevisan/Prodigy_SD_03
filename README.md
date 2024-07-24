@@ -48,7 +48,7 @@ Libraries: ClosedXML for Excel export
 ## How to Use:
 
 ## Adding a Contact: 
-Enter the contact's ID, Name, Phone, and Email in the respective text boxes and click the "Add" button. The contact will be saved to the database, and the list will refresh automatically.
+Enter the contact's ID, Name, Phone, and Email in the respective text boxes and click the "Save" button. The contact will be saved to the database, and the list will refresh automatically.
 
 ## Updating a Contact: 
 Enter the contact's ID and the new details (Name, Phone, Email) in the text boxes, then click the "Update" button. The contact details will be updated, and the list will refresh automatically.
