@@ -19,7 +19,7 @@ Repository of Contact Management System
 
 Contact Management System
 
-This Windows Forms application, developed in C#, provides an efficient and user-friendly way to manage a contact list. The application connects to a SQL Server database to perform CRUD (Create, Read, Update, Delete) operations on contact records. It uses ClosedXML for exporting contact lists to Excel. Key features include:
+This Windows Forms application, developedin C#, provides an efficient and user-friendly way to manage a contact list. The application connects to a SQL Server database to perform CRUD (Create, Read, Update, Delete) operations on contact records. It uses ClosedXML for exporting contact lists to Excel. Key features include:
 
 ## Add New Contact: 
 Users can add a new contact by entering the ID, Name, Phone, and Email. The application validates the ID to ensure it's an integer before saving the new contact to the database.
@@ -36,7 +36,7 @@ Users can search for a specific contact by entering its ID. The search results a
 ## Display All Contacts: 
 Users can view all contacts stored in the database. The contact list is displayed in a DataGridView.
 
-##Export to Excel: 
+## Export to Excel: 
 Users can export the contact list to an Excel file using the ClosedXML library. The exported file can be saved to a user-defined location.
 
 ## Technology Stack:
